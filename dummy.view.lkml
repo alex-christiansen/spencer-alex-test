@@ -3,6 +3,7 @@ view: dummy {
 
 
   # # You can specify the table name if it's different from the view name:
+  # # this is alex's committ
   # sql_table_name: my_schema_name.tester ;;
   #
   # # Define your dimensions and measures here, like this:
